@@ -1,7 +1,7 @@
 from googleapiclient.discovery import build
 
 # Replace with your API key
-API_KEY = "AIzaSyA1Rw6N4N_rXnsuK4L5_iIvVWZLgvNO3yc"
+API_KEY = ""
 
 # Replace with the channel's username or channel ID
 CHANNEL_ID = "UCcYzLCs3zrQIBVHYA1sK2sw"
